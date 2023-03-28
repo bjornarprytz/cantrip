@@ -13,10 +13,10 @@
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/bjornarprytz/cantrip</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageReadmeFile>./readme.md</PackageReadmeFile>
         <PackageTags>helpers extensions</PackageTags>
 
         <PackageProjectUrl>https://github.com/bjornarprytz/cantrip</PackageProjectUrl>
     </PropertyGroup>
+
 
 </Project>
