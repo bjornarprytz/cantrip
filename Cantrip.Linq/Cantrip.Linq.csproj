@@ -5,6 +5,18 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <Version>0.0.1</Version>
+        
+        <PackageId>Cantrip.Linq</PackageId>
+        <Title>Cantrip.Linq</Title>
+        <Authors>TheWizard</Authors>
+        <Description>A collection of useful functions</Description>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/bjornarprytz/cantrip</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageReadmeFile>./readme.md</PackageReadmeFile>
+        <PackageTags>helpers extensions</PackageTags>
+
+        <PackageProjectUrl>https://github.com/bjornarprytz/cantrip</PackageProjectUrl>
     </PropertyGroup>
 
 </Project>
