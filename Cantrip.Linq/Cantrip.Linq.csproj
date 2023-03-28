@@ -11,6 +11,7 @@
         <Authors>TheWizard</Authors>
         <Description>A collection of useful functions</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
         <RepositoryUrl>https://github.com/bjornarprytz/cantrip</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageTags>helpers extensions</PackageTags>
@@ -19,4 +20,7 @@
     </PropertyGroup>
 
 
+    <ItemGroup>
+        <None Include="docs\README.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
 </Project>

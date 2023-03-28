@@ -17,7 +17,7 @@ env:
   DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
   DOTNET_NOLOGO: true
   NuGetDirectory: ${{ github.workspace}}/nuget
-  PACKAGE_RULES: AssembliesMustBeOptimized,AuthorMustBeSet,DescriptionMustBeSet,LicenseMustBeSet,ProjectUrlMustBeSet,RepositoryMustBeSet
+  PACKAGE_RULES: AssembliesMustBeOptimized,AuthorMustBeSet,DescriptionMustBeSet,ReadmeMustBeSet,LicenseMustBeSet,ProjectUrlMustBeSet,RepositoryMustBeSet
 
 defaults:
   run:
